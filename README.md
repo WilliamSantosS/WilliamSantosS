@@ -10,7 +10,7 @@ I'm a IT student at Universidade Salvador, currently working with web developer 
 
 ![](https://img.shields.io/badge/Technology-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=D83A7C&labelColor=141321)
 ![](https://img.shields.io/badge/Technology-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=D83A7C&labelColor=141321)
-![](https://img.shields.io/badge/Technology-NodeJs-informational?style=flat&logo=nodejs&logoColor=white&color=D83A7C&labelColor=141321)
+![](https://img.shields.io/badge/Technology-NodeJs-informational?style=flat&logo=NodeJs&logoColor=white&color=D83A7C&labelColor=141321)
 ![](https://img.shields.io/badge/Technology-ReactJs-informational?style=flat&logo=react&logoColor=white&color=D83A7C&labelColor=141321)
 ![](https://img.shields.io/badge/Technology-PHP-informational?style=flat&logo=PHP&logoColor=white&color=D83A7C&labelColor=141321)
 
