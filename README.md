@@ -1,5 +1,5 @@
 # Hi there 👋 I'm William 
-![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+<a href='mailto:williamgamer29@gmail.com'> <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/> </a>
 ### About me
 I'm a IT student at Universidade Salvador, currently working with web developer applications using technologies like Typescript Javascript NodeJs ReactJs
 
