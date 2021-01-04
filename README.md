@@ -8,7 +8,10 @@ I'm a IT student at Universidade Salvador, currently working with web developer 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smurf455&layout=compact&theme=radical)](https://github.com/smurf455/)
 
-<p> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" align='left'></p> <p> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" align='left'></p> <p> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" align='left'></p> <p> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" align='left'></p> <p> <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" align='left'></p> <p> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" align='left'></p> <p> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" align='left'></p>
+ <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" align='left'>  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" align='left'>  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" align='left'>
+ <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" >
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" align='left'>
+ <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" align='left'><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" align='left'>
 	
 	
 
