@@ -1,5 +1,5 @@
 # Hi there 👋 I'm William 
-<a href='mailto:williamgamer29@gmail.com'> <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/> </a>
+<a href='mailto:williamgamer29@gmail.com'> <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/> </a>  <a href='https://www.linkedin.com/in/william-dos-santos-santana-18099a1b2/'> <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/> </a>
 ### About me
 I'm a IT student at Universidade Salvador, currently working with web developer applications using technologies like Typescript Javascript NodeJs ReactJs
 
