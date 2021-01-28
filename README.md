@@ -4,9 +4,9 @@
 I'm a IT student at Universidade Salvador, currently working with web developer applications using technologies like Typescript Javascript NodeJs ReactJs
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=smurf455&count_private=true&show_icons=true&theme=radical)](https://github.com/smurf455/)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=WilliamSantosS&count_private=true&show_icons=true&theme=radical)](https://github.com/smurf455/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smurf455&layout=compact&theme=radical)](https://github.com/smurf455/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamSantosS&layout=compact&theme=radical)](https://github.com/WilliamSantosS/)
 
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" align='left'> 
  
